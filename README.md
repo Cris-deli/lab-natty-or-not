@@ -8,11 +8,13 @@ O Vídeo aborda como a combinação de computação em nuvem e IA generativa est
  🤖 Tecnologias Utilizadas
  
  ** IA Generativa ChatGPT para roteirização e revisão;
+ 
  ** IA Generativa invideo AI para criação do vídeo;
 
 🧐 Processo de Criação
 
 Usei o "ChatGPT" para revisar o conteudo da minha pesquisa. 
+
 O invideo AI para criação de voz e do video. 
 
 🚀 Resultados
@@ -22,5 +24,6 @@ O vídeo aborda como a combinação de computação em nuvem e IA generativa est
 https://ai.invideo.io/watch/BVu4zfZDyyj
 
 💭 Reflexão
+
 Realizar esse projeto foi muito desafiador, pois coloquei em prática o que tenho aprendido até o momento e isso me deixa muito realizada!.
 
